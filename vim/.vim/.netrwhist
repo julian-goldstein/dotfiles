@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/debian/research/container-tracers/constat/src/bpf'
+let g:netrw_dirhist_8='/home/debian/src/linux'
+let g:netrw_dirhist_7='/home/debian/src/linux/include'
+let g:netrw_dirhist_6='/home/debian/src/linux/include/trace'
+let g:netrw_dirhist_5='/home/debian/src/linux/include'
+let g:netrw_dirhist_4='/opt/brenda/nginx/sites-conf.d'
+let g:netrw_dirhist_3='/opt/brenda/nginx'
+let g:netrw_dirhist_2='/home/debian/src/bind9/volumes/bind9/zones'
+let g:netrw_dirhist_1='/home/debian/src/bind9/volumes/named.conf'
+let g:netrw_dirhist_0='/home/debian/src/virt/deploy/brenda/jenkins/jenkins_home'

@@ -1,0 +1,3 @@
+[submodule "Jenkinsfile-vim-syntax"]
+	path = vim/.vim/bundle/Jenkinsfile-vim-syntax
+	url = https://github.com/martinda/Jenkinsfile-vim-syntax.git
