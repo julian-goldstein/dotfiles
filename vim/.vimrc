@@ -43,3 +43,4 @@ if executable('rust-analyzer')
 endif
 
 nnoremap <F2> :NERDTreeToggle<CR>
+nnoremap <F3> :Magit<CR>
